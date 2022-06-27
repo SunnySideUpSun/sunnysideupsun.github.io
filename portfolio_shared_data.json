@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Larry Lee",
+      "titles": [ "Student at Temasek Polytechnic, Security Engineer Intern" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/SunnySideUpSun",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/larry-lee-10b723205/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Centos",
+          "class": "devicon-centos-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Javascript",
+          "class": "devicon-javascript-plain",
+          "level": "95"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Adobe-Xd",
+          "class": "devicon-xd-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Bash",
+          "class": "devicon-bash-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain-wordmark",
+          "level": "95"
+        }
+      ]
+    }
+  }
