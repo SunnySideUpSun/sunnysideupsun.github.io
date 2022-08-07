@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "👋 I'm Larry. Hello, I am Larry a student at Temasek Polytechnic. I have a strong passion for Cybersecurity, with my main interests in the field of Network Security and Incident Response and Forensics. I am looking to pursue my studies at NUS to further develop my skills for the future security and overall development of Singapore's technological landscape.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Awards",
+        "skills": "Technologies",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Cisco APJC NetAcardRiders",
+        "startDate": "2022",
+        "description": "Awarded top 5% out of 760 participants in the regional Cisco NetAcadRiders competition. I received the gold certificate for my achievements.",
+        "images": [
+          "images/portfolio/linkedinbanner.jpg",
+          "images/portfolio/netAcad/netacad-pic-2.jpg",
+          "images/portfolio/netAcad/netacad-pic-3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+
+        ]
+      },
+      {
+        "title": "Director's List Awardee",
+        "startDate": "AY21/22",
+        "description": "Awarded with School of Informatics & IT Director’s List Award in Temasek Polytechnic. Given to students in the top 10 percentile of all Cybersecurity and Digital Forensics students within Academic Year 2021/2022",
+        "images": [
+          "images/portfolio/D-list/dlist-group-picture.jpg"
+        ],
+        "url": "",
+        "technologies": [
+
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Temasek Polytechnic",
+        "title": "Student",
+        "years": "04.2020 - 04.2021",
+        "mainTech": [
+          "Year 1"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "Java",
+          "MySQL",
+          "Knime",
+          "Power-Bi",
+          "Cisco-networking",
+          "Python"
+        ]
+      },
+      {
+        "company": "Temasek Polytechnic",
+        "title": "Student",
+        "years": "04.2021 - 04.2022",
+        "mainTech": [
+          "Year 2"
+        ],
+        "technologies": [
+          "Nmap",
+          "Ethical-Hacking",
+          "Autopsy",
+          "FTK",
+          "Digital-Forensics",
+          "RHEL",
+          "PHP",
+          "Incident-Response"
+        ]
+      },
+      {
+        "company": "Temasek Polytechnic",
+        "title": "Student",
+        "years": "04.2022 - Present",
+        "mainTech": [
+          "Year 3(Final)"
+        ],
+        "technologies": [
+          "Malware-Analysis",
+          "Reverse-Engineering",
+          "Mobile-Forensics",
+          "Android-Forensics"
+        ]
+      }
+    ]
+  }
